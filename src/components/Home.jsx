@@ -2,6 +2,8 @@ import React from "react";
 import HeroImage from "../assets/heroImage.jpg";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
+import { FaHackerrank } from "react-icons/fa";
+import { SiLeetcode,SiCodechef } from "react-icons/si";
 
 const Home = () => {
   return (
@@ -15,9 +17,11 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-          I am Sai Ram, an aspiring software developer with a robust foundation in programming and 
-          my technical expertise spans a range of technologies, including Java, Python, React, MongoDB, Django, and AWS, 
-          with a strong focus on DSA, object-oriented programming and problem-solving
+            I am Sai Ram, an aspiring software developer with a robust
+            foundation in programming and my technical expertise spans a range
+            of technologies, including Java, Python, React, MongoDB, Django,
+            and AWS, with a strong focus on DSA, object-oriented programming
+            and problem-solving
           </p>
 
           <div>
@@ -32,6 +36,32 @@ const Home = () => {
                 <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
               </span>
             </Link>
+          </div>
+          <div className="flex mt-4 space-x-4">
+            <a
+              href="https://leetcode.com/u/21r21a12f9/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-300 hover:text-white"
+            >
+              <SiLeetcode size={30} />
+            </a>
+            <a
+              href="https://www.codechef.com/users/sai_ram_33"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-300 hover:text-white"
+            >
+              <SiCodechef size={30} />
+            </a>
+            <a
+              href="https://www.hackerrank.com/profile/21r21a12f9"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-300 hover:text-white"
+            >
+              <FaHackerrank size={30} />
+            </a>
           </div>
         </div>
 
