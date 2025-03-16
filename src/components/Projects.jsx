@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import sassy_medical from "../assets/portfolio/sassy_medical.png";
 import lostandfound from "../assets/portfolio/lost&found.png";
-import rentwise from "../assets/portfolio/rentwise.png";
+import guess_song from "../assets/portfolio/guess_song.png";
 import travels from "../assets/portfolio/aitravel.png";
 import bookmarkmanager from "../assets/portfolio/bookmarkmanager.png";
 import passwordgenerator from "../assets/portfolio/passwordgenerator.png";
@@ -24,10 +24,10 @@ const Projects = () => {
     },
     {
       id: 3,
-      title:"Rentwise web app",
-      src: rentwise,
-      techStack: ["DJango", "Python", "API Integration", "HTML", "JavaScript"],
-      link: "",
+      title:"Guess song",
+      src: guess_song,
+      techStack: ["React.js", "JavaScript", "API Integration", "CSS"],
+      link: "https://sairam311.github.io/Guess-song/",
     },
     {
       id: 4,
