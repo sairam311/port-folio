@@ -3,7 +3,7 @@ import sassy_medical from "../assets/portfolio/sassy_medical.png";
 import lostandfound from "../assets/portfolio/lost&found.png";
 import guess_song from "../assets/portfolio/guess_song.png";
 import travels from "../assets/portfolio/aitravel.png";
-import bookmarkmanager from "../assets/portfolio/bookmarkmanager.png";
+import Quizz from "../assets/portfolio/quizz.jpg";
 import passwordgenerator from "../assets/portfolio/passwordgenerator.png";
 
 const Projects = () => {
@@ -13,7 +13,7 @@ const Projects = () => {
       title:"Appointment booking system",
       src: sassy_medical,
       techStack: ["MERN STACK", "AI Chat bot", "API Integration", "Tailwind CSS"],
-      link: "https://sassy-2003.github.io/Sassy_medical/",
+      link: "https://sassy-medical.onrender.com/",
     },
     {
       id: 2,
@@ -31,10 +31,10 @@ const Projects = () => {
     },
     {
       id: 4,
-      title:"Bookmark manager",
-      src: bookmarkmanager,
-      techStack: ["DJango", "Python", "HTML", "JavaScript"],
-      link: "https://github.com/sairam311/CometForge_Assignment",
+      title:"Quizz app",
+      src: Quizz,
+      techStack: ["React.js", "JavaScript", "CSS"],
+      link: "https://sairam311.github.io/Quizz/",
     },
     {
       id: 5,
