@@ -2,7 +2,7 @@ import React from "react";
 import HeroImage from "../assets/heroImage.jpg";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
-import { FaHackerrank } from "react-icons/fa";
+import { FaHackerrank,FaGithub } from "react-icons/fa";
 import { SiLeetcode,SiCodechef } from "react-icons/si";
 
 const Home = () => {
@@ -61,6 +61,14 @@ const Home = () => {
               className="text-gray-300 hover:text-white"
             >
               <FaHackerrank size={30} />
+            </a>
+            <a
+              href="https://github.com/sairam311"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-300 hover:text-white"
+            >
+              <FaGithub size={30} />
             </a>
           </div>
         </div>
