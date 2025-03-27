@@ -20,7 +20,7 @@ const Projects = () => {
       title:"AI-Travel app",
       src: travels,
       techStack: ["MERN STACK", "AI Chat bot", "API Integration", "Tailwind CSS"],
-      link: "",
+      link: "https://slg-travels.onrender.com/",
     },
     {
       id: 3,
