@@ -9,7 +9,7 @@ const Contact = () => {
   const handleChange = (e) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
-  console.log(process.env.REACT_APP_SERVICE_ID,process.env.REACT_APP_TEMPLATE_ID,formData.name,formData.email,formData.message,process.env.REACT_APP_PUBLIC_KEY);
+  //console.log(process.env.REACT_APP_SERVICE_ID,process.env.REACT_APP_TEMPLATE_ID,formData.name,formData.email,formData.message,process.env.REACT_APP_PUBLIC_KEY);
 
   const handleSubmit = (e) => {
     e.preventDefault();
