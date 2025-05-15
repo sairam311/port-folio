@@ -6,7 +6,7 @@ const experiences = [
   {
     title: "Python Developer",
     company: "Kantag Solutions",
-    duration: "Dec 2024 - present",
+    duration: "Dec 2024 - May 2025",
     icon: <FaPython className="text-white text-3xl" />,
     img:"",
     imgPosition:"right",
@@ -19,7 +19,7 @@ const experiences = [
   {
     title: "Chairman",
     company: "CSI Wing at MLRIT",
-    duration: "March 2023 - present",
+    duration: "March 2023 - May 2025",
     icon: <FaUniversity className="text-white text-3xl" />,
     img:csi,
     imgPosition:"left",
