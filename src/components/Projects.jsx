@@ -4,7 +4,7 @@ import lostandfound from "../assets/portfolio/lost&found.png";
 import guess_song from "../assets/portfolio/guess_song.png";
 import travels from "../assets/portfolio/aitravel.png";
 import Quizz from "../assets/portfolio/quizz.jpg";
-import passwordgenerator from "../assets/portfolio/passwordgenerator.png";
+import chatapp from "../assets/portfolio/chat-app.png";
 
 const Projects = () => {
   const projects = [
@@ -24,10 +24,10 @@ const Projects = () => {
     },
     {
       id: 3,
-      title:"Guess song",
-      src: guess_song,
-      techStack: ["React.js", "JavaScript", "API Integration", "CSS"],
-      link: "https://sairam311.github.io/Guess-song/",
+      title:"Chat-App",
+      src: chatapp,
+      techStack: ["React.js", "Django", "Socket.io"],
+      link: "https://sairam311.github.io/chat-app/",
     },
     {
       id: 4,
@@ -45,10 +45,10 @@ const Projects = () => {
     },
     {
       id: 6,
-      title:"Password Generator",
-      src: passwordgenerator,
-      techStack: ["HTML", "JavaScript", "CSS"],
-      link: "https://sairam311.github.io/password_generator/",
+      title:"Guess song",
+      src: guess_song,
+      techStack: ["React.js", "JavaScript", "API Integration", "CSS"],
+      link: "https://sairam311.github.io/Guess-song/",
     },
   ];
 
