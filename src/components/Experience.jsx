@@ -5,16 +5,28 @@ import csi from "../assets/chairman.png";
 const experiences = [
   {
     title: "Python Developer",
-    company: "Kantag Solutions",
-    duration: "Dec 2024 - May 2025",
+    company: "8th Element",
+    duration: "Jun 2024 - Present",
     icon: <FaPython className="text-white text-3xl" />,
     img:"",
     imgPosition:"right",
     description: [
+      "Contributed as a Backend Developer, focusing on AI and Large Language Models (LLMs), with hands-on experience in Python and API development to support intelligent system functionalities and scalable backend services.",
+    ],
+    durationPosition: "right",
+  },
+  {
+    title: "Python Developer",
+    company: "Kantag Solutions",
+    duration: "Dec 2024 - May 2025",
+    icon: <FaPython className="text-white text-3xl" />,
+    img:"",
+    imgPosition:"left",
+    description: [
       "Contributed as a backend developer, building and maintaining scalable applications and services using Python and Django.",
       "Developed and integrated APIs, enabling seamless communication between various services and external systems.",
     ],
-    durationPosition: "right",
+    durationPosition: "left",
   },
   {
     title: "Chairman",
@@ -22,13 +34,13 @@ const experiences = [
     duration: "March 2023 - May 2025",
     icon: <FaUniversity className="text-white text-3xl" />,
     img:csi,
-    imgPosition:"left",
+    imgPosition:"right",
     description: [
       "Led and managed the CSI chapter, increasing membership by 30% and organizing technical workshops and guest lectures that benefited over 600 students.",
       "Managed a team of 20+ student volunteers, delegating tasks, coordinating efforts, and fostering a collaborative environment to achieve goals.",
       "Developed and implemented team-building activities and training programs to enhance volunteer skills and improve team performance.",
     ],
-    durationPosition: "left",
+    durationPosition: "right",
   },
 ];
 
