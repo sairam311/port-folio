@@ -19,7 +19,7 @@ const about = [
       "Course : B.Tech",
       "Institute : MLR Institute of Technology",
       "Specialization : IT",
-      "CGPA : 7.2",
+      "CGPA : 7.1",
       "Year of Graduation : 2025"
     ],
     durationPosition: "left",

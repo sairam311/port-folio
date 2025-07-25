@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import sassy_medical from "../assets/portfolio/sassy_medical.png";
 import lostandfound from "../assets/portfolio/lost&found.png";
-import guess_song from "../assets/portfolio/guess_song.png";
+import CGPA_calculator from "../assets/portfolio/CGPA_calculator.png";
 import travels from "../assets/portfolio/aitravel.png";
-import Quizz from "../assets/portfolio/quizz.jpg";
+import dynamic_card_manager from "../assets/portfolio/dynamic_card_manager.png";
 import chatapp from "../assets/portfolio/chat-app.png";
 
 const Projects = () => {
@@ -31,10 +31,10 @@ const Projects = () => {
     },
     {
       id: 4,
-      title:"Quizz app",
-      src: Quizz,
-      techStack: ["React.js", "JavaScript", "CSS"],
-      link: "https://sairam311.github.io/Quizz/",
+      title:"Dynamic Card Manager",
+      src: dynamic_card_manager,
+      techStack: ["Angular", "TypeScript", "HTML", "CSS"],
+      link: "https://sairam311.github.io/angular-task/",
     },
     {
       id: 5,
@@ -45,10 +45,10 @@ const Projects = () => {
     },
     {
       id: 6,
-      title:"Guess song",
-      src: guess_song,
-      techStack: ["React.js", "JavaScript", "API Integration", "CSS"],
-      link: "https://sairam311.github.io/Guess-song/",
+      title:"CGPA Calculator",
+      src: CGPA_calculator,
+      techStack: ["HTML", "JavaScript", "CSS"],
+      link: "https://sairam311.github.io/CGPA-Calculator/",
     },
   ];
 
