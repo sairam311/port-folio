@@ -4,11 +4,10 @@ const about = [
     title: "Personal details",
     imgPosition:"right",
     description: [
-      "Name : K.Sai Ram",
+      "Name : Kamineni Sai Ram Chowdary",
       "Age : 21",
       "Gender : Male",
       "Location : Hyderabad",
-      "Passion : Web development",
     ],
     durationPosition: "right",
   },
@@ -18,7 +17,7 @@ const about = [
     description: [
       "Course : B.Tech",
       "Institute : MLR Institute of Technology",
-      "Specialization : IT",
+      "Specialization : Information Technology (IT)",
       "CGPA : 7.1",
       "Year of Graduation : 2025"
     ],
@@ -31,9 +30,9 @@ const about = [
       "MERN STACK",
       "Python development",
       "Django",
-      "React.js",
-      "HTML, CSS, JavaScript",
+      "React.js, HTML, TailwindCSS, JavaScript",
       "Python, Java",
+      "GenAI, AgenticAI",
       "Data Structures and Algorithms"
     ],
     durationPosition: "right",

@@ -1,17 +1,18 @@
 import React from "react";
-import { FaPython, FaUniversity } from "react-icons/fa";
+import { FaPython, FaUniversity, FaRobot } from "react-icons/fa";
 import csi from "../assets/chairman.png";
 
 const experiences = [
   {
-    title: "Python Developer",
+    title: "AI Developer",
     company: "8th Element",
     duration: "Jun 2024 - Present",
-    icon: <FaPython className="text-white text-3xl" />,
+    icon: <FaRobot className="text-white text-3xl" />,   
     img:"",
     imgPosition:"right",
     description: [
-      "Contributed as a Backend Developer, focusing on AI and Large Language Models (LLMs), with hands-on experience in Python and API development to support intelligent system functionalities and scalable backend services.",
+      "Developed Agentic-AI and GenAI solutions in Python, integrating FastAPI-based web applications with LLMs and AI/ML models to build intelligent, context-aware, and interactive systems.",
+      "Engineered a FastAPI-driven orchestration layer for Agentic/GenAI workflows, enabling LLM-based reasoning to coordinate tool APIs, scheduling mechanisms, and data pipelines for autonomous multi-step task execution.",
     ],
     durationPosition: "right",
   },
