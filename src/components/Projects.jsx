@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import sassy_medical from "../assets/portfolio/sassy_medical.png";
 import lostandfound from "../assets/portfolio/lost&found.png";
-import GenMerchAI from "../assets/portfolio/genmerchai.png";
+import emp_tracker from "../assets/portfolio/emp_tracker.png";
 import travels from "../assets/portfolio/aitravel.png";
 import dynamic_card_manager from "../assets/portfolio/dynamic_card_manager.png";
 import chatapp from "../assets/portfolio/chat-app.png";
@@ -45,10 +45,10 @@ const Projects = () => {
     },
     {
       id: 6,
-      title:"GenMerch-AI",
-      src: GenMerchAI,
-      techStack: ["Python", "LLM", "HTML", "JavaScript", "CSS"],
-      link: "https://github.com/sairam311/GenMerch-AI",
+      title:"Employee Tracker",
+      src: emp_tracker,
+      techStack: ["React", "Tailwind CSS", "Django", "PostgreSQL"],
+      link: "https://sairam311.github.io/Employee_Tracker/",
     },
   ];
 
