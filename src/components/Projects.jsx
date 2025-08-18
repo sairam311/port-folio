@@ -48,7 +48,7 @@ const Projects = () => {
       title:"Employee Tracker",
       src: emp_tracker,
       techStack: ["React", "Tailwind CSS", "Django", "PostgreSQL"],
-      link: "https://sairam311.github.io/Employee_Tracker/",
+      link: "https://sairam311.github.io/emp_tracking_system/",
     },
   ];
 
