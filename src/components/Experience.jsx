@@ -6,7 +6,7 @@ const experiences = [
   {
     title: "AI Developer",
     company: "8th Element",
-    duration: "Jun 2024 - Present",
+    duration: "Jun 2025 - Present",
     location: "On-Site",
     type: "Internship",
     icon: <FaRobot className="text-white text-2xl sm:text-3xl" />,
