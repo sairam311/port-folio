@@ -1,6 +1,5 @@
 import React from "react";
 import { FaPython, FaUniversity, FaRobot, FaCalendarAlt, FaMapMarkerAlt } from "react-icons/fa";
-import csi from "../assets/chairman.png";
 
 const experiences = [
   {

@@ -5,6 +5,7 @@ import Home from "./components/Home";
 import NavBar from "./components/NavBar";
 import Projects from "./components/Projects";
 import Technicalskills from "./components/Technicalskills";
+//import Achievements from "./components/Achievements";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Technicalskills />
       <Experience/>
       <Contact />
+      {/* <Achievements /> */}
     </div>
   );
 }

@@ -87,7 +87,7 @@ const Home = () => {
             </Link>
             
             <a
-              href="/resume.pdf"
+              href="/port-folio/resume.pdf"
               download="resume.pdf"
               className="group text-green-400 border-2 border-green-400 px-4 sm:px-8 py-3 sm:py-4 flex items-center rounded-lg hover:bg-green-400 hover:text-white cursor-pointer shadow-lg hover:shadow-2xl transform hover:scale-105 transition-all duration-300 text-sm sm:text-base"
             >
