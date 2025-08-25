@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/port-folio/static/css/main.18145b55.css",
-    "main.js": "/port-folio/static/js/main.08585b87.js",
+    "main.css": "/port-folio/static/css/main.10bf53a3.css",
+    "main.js": "/port-folio/static/js/main.61b2d4a1.js",
     "static/media/aitravel.png": "/port-folio/static/media/aitravel.3b04ac46d1fa2dec6f5c.png",
     "static/media/chat-app.png": "/port-folio/static/media/chat-app.695f284fb21e5b5a9096.png",
     "static/media/lost&found.png": "/port-folio/static/media/lost&found.7fa436ff5a7f7175de74.png",
     "static/media/sassy_medical.png": "/port-folio/static/media/sassy_medical.a23c65abc2daa07f98ec.png",
     "static/media/dynamic_card_manager.png": "/port-folio/static/media/dynamic_card_manager.5ba3c80016e6075ad5f2.png",
     "static/media/emp_tracker.png": "/port-folio/static/media/emp_tracker.22e62d25008f17251647.png",
-    "static/media/chairman.png": "/port-folio/static/media/chairman.305645f53cba5f461d7d.png",
     "static/media/django.png": "/port-folio/static/media/django.5b9387314c78b5855f2a.png",
     "static/media/aws.png": "/port-folio/static/media/aws.8881d08f9d4c4bd8ac5b.png",
     "static/media/sql.png": "/port-folio/static/media/sql.c8d9bcc5af19e5ce03e9.png",
@@ -19,11 +18,11 @@
     "static/media/html.png": "/port-folio/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/javascript.png": "/port-folio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/port-folio/index.html",
-    "main.18145b55.css.map": "/port-folio/static/css/main.18145b55.css.map",
-    "main.08585b87.js.map": "/port-folio/static/js/main.08585b87.js.map"
+    "main.10bf53a3.css.map": "/port-folio/static/css/main.10bf53a3.css.map",
+    "main.61b2d4a1.js.map": "/port-folio/static/js/main.61b2d4a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.18145b55.css",
-    "static/js/main.08585b87.js"
+    "static/css/main.10bf53a3.css",
+    "static/js/main.61b2d4a1.js"
   ]
 }
